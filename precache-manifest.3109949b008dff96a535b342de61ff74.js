@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff1379d187575369d10f9f5ba1020055",
+    "revision": "bd0633efda678eac5f9f8f901a327558",
     "url": "/villancicos-slides/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/villancicos-slides/static/css/2.d5831cfa.chunk.css"
   },
   {
-    "revision": "321a9f973ff09acecef8",
+    "revision": "d30623e0627f8e9bebac",
     "url": "/villancicos-slides/static/css/main.b2231523.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/villancicos-slides/static/js/2.f808af9d.chunk.js"
   },
   {
-    "revision": "321a9f973ff09acecef8",
-    "url": "/villancicos-slides/static/js/main.f0649961.chunk.js"
+    "revision": "d30623e0627f8e9bebac",
+    "url": "/villancicos-slides/static/js/main.355543f5.chunk.js"
   },
   {
     "revision": "bc0e3e388ccbd6b397b7",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/villancicos-slides/precache-manifest.7d8553176ff60d0c3957e807f6d74ed5.js"
+  "/villancicos-slides/precache-manifest.3109949b008dff96a535b342de61ff74.js"
 );
 
 self.addEventListener('message', (event) => {
