@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/villancicos-slides/static/css/main.b2231523.chunk.css",
+    "main.js": "/villancicos-slides/static/js/main.f0649961.chunk.js",
+    "main.js.map": "/villancicos-slides/static/js/main.f0649961.chunk.js.map",
+    "runtime~main.js": "/villancicos-slides/static/js/runtime~main.f55c2589.js",
+    "runtime~main.js.map": "/villancicos-slides/static/js/runtime~main.f55c2589.js.map",
+    "static/css/2.d5831cfa.chunk.css": "/villancicos-slides/static/css/2.d5831cfa.chunk.css",
+    "static/js/2.f808af9d.chunk.js": "/villancicos-slides/static/js/2.f808af9d.chunk.js",
+    "static/js/2.f808af9d.chunk.js.map": "/villancicos-slides/static/js/2.f808af9d.chunk.js.map",
+    "index.html": "/villancicos-slides/index.html",
+    "precache-manifest.7d8553176ff60d0c3957e807f6d74ed5.js": "/villancicos-slides/precache-manifest.7d8553176ff60d0c3957e807f6d74ed5.js",
+    "service-worker.js": "/villancicos-slides/service-worker.js",
+    "static/css/2.d5831cfa.chunk.css.map": "/villancicos-slides/static/css/2.d5831cfa.chunk.css.map",
+    "static/css/main.b2231523.chunk.css.map": "/villancicos-slides/static/css/main.b2231523.chunk.css.map"
+  }
+}
