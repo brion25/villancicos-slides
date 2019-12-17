@@ -1,0 +1,6 @@
+.more-btn {
+  z-index: 10005;
+  position: absolute;
+  bottom: 0.5rem;
+  right: 0.5rem;
+}
