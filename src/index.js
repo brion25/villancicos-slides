@@ -10,7 +10,7 @@ import Casero from "./components/casero/CaseroCmp";
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route path="/yisus">
           <Yisus />

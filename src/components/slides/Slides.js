@@ -30,7 +30,7 @@ const Slides = ({ slides, slideColor, onActive }) => {
   );
 };
 
-Slides.PropTypes = {
+Slides.propTypes = {
   slides: PropTypes.array.isRequired,
   onActive: PropTypes.func,
   slideColor: PropTypes.string
